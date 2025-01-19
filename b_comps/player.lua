@@ -1,0 +1,1 @@
+Player=Component{xSpeed=0,ySpeed=0--[[speedChange=0,maxSpeed=0]]}

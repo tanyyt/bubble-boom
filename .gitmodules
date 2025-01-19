@@ -1,0 +1,3 @@
+[submodule "zecs"]
+	path = zecs
+	url = https://github.com/tanyyt/zecs.git

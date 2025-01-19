@@ -1,0 +1,1 @@
+Bubble=Component{timer=0--[[,maxStretch=0,originWidth=0,originHeight=0,flicker=0,flickerSpeed=0]]}

@@ -1,0 +1,1 @@
+DieAnim=Component{}

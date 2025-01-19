@@ -1,0 +1,1 @@
+Timer=Component{time=0,isStop=false}
